@@ -1,0 +1,11 @@
+1. Play with the virtualenv activate code. Change the install location and change the bash prompt
+2. Play with the math module python. Get pi to be a different number!
+3. Make your own module!! For extra bonus points make a module that will export a command line tool to print out the important links from class. And publish it to PIP. The class will install it later
+4. Write a tutorial on what's inside the PIP python module (yup pip is a python module)
+5. Write a tutorial on what's inside the virtualenv env
+
+1. Try out code golf (write really short programs that do really cool things) https://code-golf.io
+2. Try out Project Euler (solve computationally hard problems with code) https://projecteuler.net
+3. Trick out your ipython notebook: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+4. Check out some tips for writing fast python: https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Loops
+5. Surprise me!
